@@ -16,7 +16,7 @@ MIDI Keyboard, uses mechanical switches to detect inputs. Has a built in rotary 
 - Solder the switches and rotary encoder onto the PCB.
 - Once the soldering is completed, connect the PCB to a PC and write on the firmware.
 
-  ## **Parts List: (For South-East Asia)**
+## **Parts List: (For South-East Asia)**
 - [12 x Huano Sakura v2 switches](https://www.aliexpress.com/item/1005008819780366.html?spm=a2g0o.productlist.main.2.b9a55dfaYEBNLf&algo_pvid=fca31fea-e6e8-41a6-a7f7-b9bd1384eb48&algo_exp_id=fca31fea-e6e8-41a6-a7f7-b9bd1384eb48-1&pdp_ext_f=%7B%22order%22%3A%22239%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21MYR%2122.04%215.22%21%21%215.24%211.24%21%402101364a17903370173813828e0e0b%2112000046806379242%21sea%21MY%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ad5cef2be%3Bm03_new_user%3A-29895%3BpisId%3A5000000216900886&curPageLogUid=wXyMIQGKpfFU&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008819780366%7C_p_origin_prod%3A)
 - [SEEED XIAO ESP32-C3](https://shopee.com.my/Original-authentic-Seeed-Studio-XIAO-ESP32C3-xiahttps://shopee.com.my/-Luminense-PCB-Standoff-Brass-Standoff-M2-M3-120-pcs-300-pcs-set-i.63040732.15203389154?xptdk=49b2e936-5e74-4f0d-bcfd-47e3fcb39e03o-esp32-c3-thumb-WIFI-development-board-i.542060608.25985797324?extraParams=%7B%22display_model_id%22%3A223198452291%2C%22model_selection_logic%22%3A3%7D)
 - [M2 Brass Standoffs](https://shopee.com.my/-Luminense-PCB-Standoff-Brass-Standoff-M2-M3-120-pcs-300-pcs-set-i.63040732.15203389154?xptdk=c7b95211-1365-4004-b025-c1b6e75623bb)
