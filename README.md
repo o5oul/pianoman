@@ -1,4 +1,4 @@
-# pianoman [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb)
+# pianoman [![View PCB on KiCanvas](https://hack.club/pcb-badge)]([https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb](https://kicanvas.org/?repo=https://github.com/o5oul/pianoman/blob/main/KiCad/Pianoman.kicad_pcb))
 MIDI Keyboard, uses mechanical switches to detect inputs. Has a built in rotary encoder knob to act as a volume control.
 
 <break>
